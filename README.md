@@ -24,19 +24,19 @@ It focuses on speed, simplicity, and clean output while providing essential reco
 git clone https://github.com/Cyber-specterz/Quickstrike-v2.git
 ```
 ```
-cd quickstrike
+cd  Quickstrike-v2
 ```
 ```
-chmod +x quickstrike_v2.py
+chmod +x quickstrike.py
 ```
 
 ### ▶ Usage
 ```
-python3 quickstrike_v2.py <target> <start_port> <end_port>
+python3 quickstrike.py <target> <start_port> <end_port>
 ```
 ### Example
 ```
-python3 quickstrike_v2.py example.com 1 1000
+python3 quickstrike.py example.com 1 1000
 ```
 
 ### 🧠 How It Works
