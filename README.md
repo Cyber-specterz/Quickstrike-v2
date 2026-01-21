@@ -29,7 +29,9 @@ cd  Quickstrike-v2
 ```
 chmod +x quickstrike.py
 ```
-
+```
+apt install Pillow
+```
 ### ▶ Usage
 ```
 python3 quickstrike.py <target> <start_port> <end_port>
