@@ -21,7 +21,7 @@ It focuses on speed, simplicity, and clean output while providing essential reco
 
 ### 🚀 Installation
 ```
-git clone https://github.com/Nivas-cyber/Quickstrike.git
+git clone https://github.com/Cyber-specterz/Quickstrike-v2.git
 ```
 ```
 cd quickstrike
